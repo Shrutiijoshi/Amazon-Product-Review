@@ -44,36 +44,36 @@ The primary objectives of this project include:
 - Excel: Quick data exploration, pivot tables, and initial charts.
 - Tableau: Interactive dashboards and visualizations
 ## Analysis Breakdown
-1. Discount Analysis
-Question : How does the discount percentage affect the rating of a product?
-Tools : Scatter plots (Python, Tableau), Correlation Analysis (Excel).
-2. Category Analysis
-Question: Which category has the highest average rating?
-Tools: Grouping and aggregation (Python), Bar Charts (Tableau).
-3. Price Analysis
-Question: Is there a correlation between price and ratings?
-Tools: Correlation analysis (Python, Excel), Scatter plots (Tableau).
-4. Review Analysis
-Question: What are the most common words in positive and negative reviews?
-Tools: (Python,Excel).
-5. Rating Analysis
-Question: What is the distribution of product ratings?
-Tools: Histograms (Excel, Python), Bar Charts (Tableau).
-6. Product Analysis
-Question: Which product has the highest number of reviews and what is its rating?
-Tools: Excel, Python, Tablue.
-7. User Analysis
-Question: Identify the top 5 users who have given the most reviews
-Tools: Excel, Python, Tablue.
-8. Review Length Analysis
-Question : Is there a correlation between the length of a review and the rating given?
-Tools : Excel, Python
-9. Image Analysis
-Question : Does having an image link affect the product rating?
-Tools : Excel, Python
-10. Product Description Analysis
-Question : Can the length of the product description be correlated to the product's rating?
-Tools : Excel, Python
+### 1. Discount Analysis
+- Question : How does the discount percentage affect the rating of a product?
+- Tools : Scatter plots (Python, Tableau), Correlation Analysis (Excel).
+### 2. Category Analysis
+- Question: Which category has the highest average rating?
+- Tools: Grouping and aggregation (Python), Bar Charts (Tableau).
+### 3. Price Analysis
+- Question: Is there a correlation between price and ratings?
+- Tools: Correlation analysis (Python, Excel), Scatter plots (Tableau).
+### 4. Review Analysis
+- Question: What are the most common words in positive and negative reviews?
+- Tools: (Python,Excel).
+### 5. Rating Analysis
+- Question: What is the distribution of product ratings?
+- Tools: Histograms (Excel, Python), Bar Charts (Tableau).
+### 6. Product Analysis
+- Question: Which product has the highest number of reviews and what is its rating?
+- Tools: Excel, Python, Tablue.
+### 7. User Analysis
+- Question: Identify the top 5 users who have given the most reviews
+- Tools: Excel, Python, Tableau.
+### 8. Review Length Analysis
+- Question : Is there a correlation between the length of a review and the rating given?
+- Tools : Excel, Python
+### 9. Image Analysis
+- Question : Does having an image link affect the product rating?
+- Tools : Excel, Python
+### 10. Product Description Analysis
+- Question : Can the length of the product description be correlated to the product's rating?
+- Tools : Excel, Python
 ## Getting Started
 ### Prerequisites
 - Python 3.x
