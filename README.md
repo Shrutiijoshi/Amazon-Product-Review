@@ -2,7 +2,7 @@
 This repository contains an in-depth analysis of Amazon product reviews to extract actionable insights. The project leverages datasets, statistical techniques, and visualization tools to understand trends and patterns that can enhance customer satisfaction, optimize product offerings, and boost sales.
 ## Table of Contents
 - [Overview](#Overview)
-- [DDataset](#Dataset)
+- [Dataset](#Dataset)
 - [Analysis Goals](#Analysis-Goals)
 - [Technologies Used](#Technologies-Used)
 - [Analysis Breakdown](#Analysis-Breakdown)
